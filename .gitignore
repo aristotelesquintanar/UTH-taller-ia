@@ -1,0 +1,15 @@
+# Archivos de sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Registros locales
+*.log
+
+# otros
+.env
+.env.*
+!.env.example
+.idea/
+vendor/
+node_modules/
